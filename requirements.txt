@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+language-tool-python
+plotly
+reportlab
+matplotlib
+seaborn
+sentence-transformers
+sqlite-utils
